@@ -61,7 +61,7 @@ update=()=>{
     rule(red, red, -0.10)
     rule(red, green, -0.34)
     rule(yellow, yellow, 0.15)
-    rule(yellow, green, -0.20)
+    rule(yellow, green, -0.30)
 
     m.clearRect(0, 0, 500, 500)
     draw(0, 0, "black", 500)
